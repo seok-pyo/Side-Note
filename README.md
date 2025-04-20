@@ -61,4 +61,18 @@
 - 비트/진법/주소
 - [환경변수](./Documents/system/envVari.md)
 
+<br>
+
+`algorithm`
+
+- 시간복잡도
+- 선택정렬
+- 삽입정렬
+- 퀵정렬
+- 스와프
+
+
+
+
+
 <br><br><br>
